@@ -1,0 +1,20 @@
+import java.util.Scanner;
+public class Even_switch
+{
+	public static void main(String[] args) {
+			    Scanner scan = new Scanner(System.in);
+	    System.out.println("Enter your kk");
+	    int kk;
+	    kk=scan.nextInt();
+	    switch(kk%2){
+	    case 0:
+	        System.out.println(kk+ ":Evan ");
+	        break;
+	    case 1 :
+	    System.out.println(kk+ ":odd");
+	        
+	    }
+	}
+
+
+	}
