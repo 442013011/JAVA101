@@ -11,7 +11,7 @@ import java.util.Scanner;
  [4]:Faith has the highest 70 grade in math
  [2]:Jodi has the lowest 5 grade in math
  */
-public classAssignment3{
+public class Assignment3{
         /**
          * This function will help you to cast string into int
          */
